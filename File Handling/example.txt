@@ -1,0 +1,3 @@
+Hello, this is a test file!
+This is line 2.
+This is an appended line.
